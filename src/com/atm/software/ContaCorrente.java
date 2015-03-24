@@ -19,7 +19,7 @@ public class ContaCorrente {
 		this.titular = titular;
 		this.saldoTotal = saldoTotal;
 	}
-	
+	// //serve para comentar uma linha
 	
 	// determina se o PIN especificado pelo usuário corresponde ao PIN  em conta
 	public boolean validaPIN(Integer usuarioPin) {
